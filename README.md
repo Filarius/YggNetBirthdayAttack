@@ -6,7 +6,7 @@ Application select (filter) only Keys who makes Addresses with same 3 bytes "hea
 
 # Requirements
 
-64-bit OS, 4 Gb free space.
+64-bit OS, 4 Gb free memory.
 
 Windows build (via MSYS easy script)
 

@@ -1,4 +1,4 @@
-# Yggdrasil Networl subnet collision search Proof-of-Concept
+# Yggdrasil Network subnet collision search Proof-of-Concept
 
 Simple modification of SimpleYggGen miner for Proof-of-Concept about its possible to find two keys with same Subnet address.
 

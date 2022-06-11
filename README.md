@@ -16,12 +16,12 @@ Linux build (make yourself).
 
 In single test run:
 
-Keys generated: 2.3x 10^10, Filtred: 1.8x 10^5, Collisions found: 5
+Keys generated: 2.3x 10^10, Filtered: 1.8x 10^5, Collisions found: 5
 
-Keys generated: 3.4x 10^10, Filtred: 2.6x 10^5, Collisions found: 10
+Keys generated: 3.4x 10^10, Filtered: 2.6x 10^5, Collisions found: 10
 
-Keys generated: 4.2x 10^10, Filtred: 3.2x 10^5, Collisions found: 15
+Keys generated: 4.2x 10^10, Filtered: 3.2x 10^5, Collisions found: 15
 
-Keys generated: 4.7x 10^10, Filtred: 3.8x 10^5, Collisions found: 20
+Keys generated: 4.7x 10^10, Filtered: 3.8x 10^5, Collisions found: 20
 
-Keys generated: 5.3x 10^10, Filtred: 4.1x 10^5, Collisions found: 25
+Keys generated: 5.3x 10^10, Filtered: 4.1x 10^5, Collisions found: 25

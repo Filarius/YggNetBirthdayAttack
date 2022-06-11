@@ -4,6 +4,14 @@ Simple modification of SimpleYggGen miner for Proof-of-Concept about its possibl
 
 Application select (filter) only Keys who makes Addresses with same 3 bytes "head", and use Subnet "tail" of 4 bytes to search "collisions" with previously mined Keys. (in Yggdrasil Network (v0.4) first byte of address is always same, so only 7 bytes in IPv6 Subnet is important).
 
+# Requerments
+
+64-bit OS, 4 Gb free space.
+
+Windows build (via MSYS easy script)
+
+Linux build (make yourself).
+
 # Some statistics
 
 In single test run:
